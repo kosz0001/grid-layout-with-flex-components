@@ -8,6 +8,7 @@ body {
     border-radius: 8px;
     padding: 1rem;
     margin: 1%;
+    display: flex;
   }
   
   .emoji h2 {
@@ -33,4 +34,9 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 1rem;
+  }
+
+  .emoji p {
+    /* display: flex; */
+    flex-grow: 1;
   }
