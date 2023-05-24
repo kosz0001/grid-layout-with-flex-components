@@ -29,6 +29,7 @@ body {
     font-size: 4rem;
     display: flex;
     justify-content: center;
+    order: -1;
   }
 
   .emojis {
