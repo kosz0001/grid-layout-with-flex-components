@@ -9,6 +9,7 @@ body {
     padding: 1rem;
     margin: 1%;
     display: flex;
+    flex-direction: column;
   }
   
   .emoji h2 {
@@ -37,6 +38,5 @@ body {
   }
 
   .emoji p {
-    /* display: flex; */
     flex-grow: 1;
   }
